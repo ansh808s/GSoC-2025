@@ -1,4 +1,4 @@
-# # Language Server Protocol for Makim’s YAML Configuration
+# Language Server Protocol for Makim’s YAML Configuration
 
 ## Final Work Report for the Google Summer of Code 2025 under Open Science Labs for the Makim LSP project
 
